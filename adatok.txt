@@ -1,3 +1,3 @@
 name:Le Xuan Richárd
-neptun_code:AVSTCS
+neptun_code:AVSTCX
 szak:Mérnök Informatikus
